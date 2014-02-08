@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-umoline
 Version:	20070120
-Release:	2
+Release:	3
 Summary:	Underline text allowing line breaking
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umoline
