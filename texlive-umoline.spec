@@ -1,6 +1,6 @@
 Name:		texlive-umoline
 Version:	19085
-Release:	1
+Release:	2
 Summary:	Underline text allowing line breaking
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umoline
