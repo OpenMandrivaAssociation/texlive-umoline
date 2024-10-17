@@ -3,7 +3,7 @@ Version:	19085
 Release:	2
 Summary:	Underline text allowing line breaking
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umoline
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/umoline
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umoline.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umoline.doc.r%{version}.tar.xz
